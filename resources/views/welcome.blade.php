@@ -2,11 +2,11 @@
 <div class="container-fluid">
 
     <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
-
-        <img src="{{ url('img/logo.png') }}" style="width:150px;height:50px">
-
-        <div class="text-center">
-            <strong>ENCUESTAS SEGÚN SERVICIO DE ATENIÓN NIVEL Y CATEGORIA</strong>
+        <p>
+            <img src="{{ url('img/logo.png') }}" style="width:150px;height:50px">
+        </p>
+        <div class="row justify-content-center align-items-center minh-500">
+            <p style="font-size:24px;" class="text-center"><strong>&nbsp;&nbsp;&nbsp;ENCUESTAS SEGÚN SERVICIO DE ATENIÓN NIVEL Y CATEGORIA</strong></p>
         </div>
     </nav>
 

@@ -1,0 +1,96 @@
+[33mcommit 16c86ab1f2e00984445d4c3b80033be027345f12[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmçain[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 1365a0e 3756d69
+Author: sahapranta <pranta1204@gmail.com>
+Date:   Sat Sep 21 07:53:31 2019 +0600
+
+    Merge branch 'master' of https://github.com/sahapranta/laravel-bootstrap-sb-admin2
+
+[33mcommit 1365a0ebad25a46b0412cb898026b6631f7a33c1[m
+Author: sahapranta <pranta1204@gmail.com>
+Date:   Sat Sep 21 07:53:15 2019 +0600
+
+    Changed layout
+
+[33mcommit 3756d692c4d1a4f054830722b9326d32bada167b[m
+Author: Pranta Saha <pranta1204@gmail.com>
+Date:   Fri Sep 20 13:42:17 2019 +0600
+
+    edited
+
+[33mcommit 413853336172d24bfa858544827315c5fda89108[m
+Author: Pranta Saha <pranta1204@gmail.com>
+Date:   Fri Sep 20 13:40:20 2019 +0600
+
+    edited
+
+[33mcommit a2f6e4ebe582f9439621a8b0259e5ed427611cb6[m
+Author: Pranta Saha <pranta1204@gmail.com>
+Date:   Fri Sep 20 13:39:56 2019 +0600
+
+    banner edit
+
+[33mcommit 51ca738b80704919ebb4cf0436dab0652986b929[m
+Author: Pranta Saha <pranta1204@gmail.com>
+Date:   Fri Sep 20 13:39:03 2019 +0600
+
+    banner deleted
+
+[33mcommit 1932e184a61d009686a28513f211c17fe28a1e77[m
+Author: Pranta Saha <pranta1204@gmail.com>
+Date:   Fri Sep 20 13:38:18 2019 +0600
+
+    banner changed
+
+[33mcommit 1327b7d576cdc01dc7087af332f5fabc3262e0d6[m
+Author: Pranta Saha <pranta1204@gmail.com>
+Date:   Fri Sep 20 13:36:51 2019 +0600
+
+    banner added
+
+[33mcommit 929198b2b92c25ed7b88c049cf79124d6976f12e[m
+Author: Pranta Saha <pranta1204@gmail.com>
+Date:   Fri Sep 20 13:35:15 2019 +0600
+
+    banner added
+
+[33mcommit a273adc033edcc92d09c3b162729f467fb5b94be[m
+Author: Pranta Saha <pranta1204@gmail.com>
+Date:   Fri Sep 20 13:16:34 2019 +0600
+
+    sded
+
+[33mcommit 50dfe224e3bf3da4b495e084d0c55127a36a6199[m
+Author: Pranta Saha <pranta1204@gmail.com>
+Date:   Fri Sep 20 13:10:47 2019 +0600
+
+    edited
+
+[33mcommit 3b1fd5f7ce59477383e9d1da3bbdea4f7af5d36c[m
+Author: Pranta Saha <pranta1204@gmail.com>
+Date:   Fri Sep 20 13:09:59 2019 +0600
+
+    todo added
+
+[33mcommit 0fab04b751bc84c9b9a2c58911cdd30f83cdc77d[m
+Author: Pranta Saha <pranta1204@gmail.com>
+Date:   Fri Sep 20 13:05:23 2019 +0600
+
+    readme updated
+
+[33mcommit bc94f0e2db065423ed98a6efe1f487b1b759f54d[m
+Author: Pranta Saha <pranta1204@gmail.com>
+Date:   Fri Sep 20 12:20:00 2019 +0600
+
+    funding
+
+[33mcommit 7d9d2a37bfb9ddf0a4b950368d655ce1d09a5874[m
+Author: sahapranta <pranta1204@gmail.com>
+Date:   Fri Sep 20 09:35:04 2019 +0600
+
+    First Commit
+
+[33mcommit 53ee46565ae37660ad257a715085e56178411b80[m
+Author: Pranta Saha <pranta1204@gmail.com>
+Date:   Fri Sep 20 09:30:24 2019 +0600
+
+    Initial commit
