@@ -28,3 +28,4 @@ This is a open source project for laravel developer. Laravel 6 with Bootstrap SB
 This Repo is open-source licensed under the [GNU license](https://raw.githubusercontent.com/sahapranta/laravel-bootstrap-sb-admin2/master/LICENSE).
 
 <a href="https://liberapay.com/sahapranta/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+# calidad

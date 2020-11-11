@@ -48,3 +48,15 @@ Route::get('/404', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('/consulta', 'ceController@index')->name('consulta');
+
+Route::post('/consulta_guarda', 'ceController@store')->name('guarda_consulta');
+
+Route::get('/emergencia', 'EmergenciaController@index')->name('emergencia');
+
+Route::post('/emergencia_guarda', 'EmergenciaController@store')->name('guarda_emergencia');
+
+Route::get('/hospi', 'HospiController@index')->name('hospi');
+
+Route::post('/hospi_guarda', 'HospiController@store')->name('guarda_hospi');

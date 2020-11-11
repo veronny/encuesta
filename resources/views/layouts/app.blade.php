@@ -23,9 +23,10 @@
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link href="{{ asset('css/fontawesome-free/css/all.min.css') }}" rel="stylesheet">
+
     @yield('css')
 </head>
-<body class="{{request()->routeIs('login') || request()->routeIs('register') || request()->routeIs('password*') ? 'bg-gradient-primary': ''}}">    
+<body class="{{request()->routeIs('login') || request()->routeIs('register') || request()->routeIs('password*') ? 'bg-gradient-primary': ''}}">
     <main id="app">
         <div id="page-top">
             <div id="wrapper">
@@ -37,13 +38,13 @@
                     @auth
                         @include('layouts.navbar')
                     @endauth
-                        @yield('content')        
-                        @include('layouts.footer')                
+                        @yield('content')
+                        @include('layouts.footer')
                     </div>
                 </div>
             </div>
-        </div>    
+        </div>
     </main>
-    @yield('js')        
+    @yield('js')
 </body>
 </html>
