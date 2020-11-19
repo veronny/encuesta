@@ -16,6 +16,10 @@ class CreateCeTable extends Migration
         Schema::create('ce', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('establecimiento',250)->nullable();
+            $table->string('encuestador',250)->nullable();
+            $table->string('fecha_atencion',250)->nullable();
+            $table->string('hora_inicio',250)->nullable();
+            $table->string('hora_fin',250)->nullable();
             $table->string('condicion')->nullable();
             $table->string('edad')->nullable();
             $table->string('sexo')->nullable();

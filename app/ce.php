@@ -9,6 +9,10 @@ class ce extends Model
     protected $fillable = [
                         'id',
                         'establecimiento',
+                        'encuestador',
+                        'fecha_atencion',
+                        'hora_inicio',
+                        'hora_fin',
                         'condicion',
                         'edad',
                         'edad',

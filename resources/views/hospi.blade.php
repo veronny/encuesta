@@ -35,6 +35,34 @@
                                     <input id="establecimiento" type="text" class="form-control @error('establecimiento') is-invalid @enderror" name="establecimiento" value="{{ old('establecimiento') }}" autofocus>
                                 </div>
                             </div>
+                            <!----- NOMBRE ----->
+                            <div class="form-group col-md-3">
+                                <div class="form-group col-md-12">
+                                    <label for="encuestador">{{ __('Nombre del encuestador') }}</label>
+                                    <input id="encuestador" type="text" class="form-control @error('encuestador') is-invalid @enderror" name="encuestador" value="{{ old('encuestador') }}" autofocus>
+                                </div>
+                            </div>
+                            <!----- Fecha ----->
+                            <div class="form-group col-md-2">
+                                <div class="form-group col-md-12">
+                                    <label for="fecha_atencion">{{ __('Fecha de Atencion') }}</label>
+                                    <input id="fecha_atencion" type="date" class="form-control @error('fecha_atencion') is-invalid @enderror" name="fecha_atencion" value="{{ old('fecha_atencion') }}" autofocus>
+                                </div>
+                            </div>
+                            <!----- Hora Inicio ----->
+                            <div class="form-group col-md-2">
+                                <div class="form-group col-md-12">
+                                    <label for="hora_inicio">{{ __('Hora Inicio') }}</label>
+                                    <input id="hora_inicio" type="time" class="form-control @error('hora_inicio') is-invalid @enderror" name="hora_inicio" value="{{ old('hora_inicio') }}" autofocus>
+                                </div>
+                            </div>
+                            <!----- Hora Final ----->
+                            <div class="form-group col-md-2">
+                                <div class="form-group col-md-12">
+                                    <label for="hora_fin">{{ __('Hora Fin') }}</label>
+                                    <input id="hora_fin" type="time" class="form-control @error('hora_fin') is-invalid @enderror" name="hora_fin" value="{{ old('hora_fin') }}" autofocus>
+                                </div>
+                            </div>
                         </div>
                         <div class="form-row">
                             <!----- Establelcimiento ----->

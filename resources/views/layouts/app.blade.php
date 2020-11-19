@@ -16,6 +16,7 @@
     <script src="{{ asset('js/demo/chart-bar-demo.js') }}" defer></script>
     <script src="{{ asset('js/demo/chart-pie-demo.js') }}" defer></script>
 
+
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">

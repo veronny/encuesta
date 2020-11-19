@@ -35,9 +35,38 @@
                                     <input id="establecimiento" type="text" class="form-control @error('establecimiento') is-invalid @enderror" name="establecimiento" value="{{ old('establecimiento') }}" autofocus>
                                 </div>
                             </div>
+                            <!----- NOMBRE ----->
+                            <div class="form-group col-md-3">
+                                <div class="form-group col-md-12">
+                                    <label for="encuestador">{{ __('Nombre del encuestador') }}</label>
+                                    <input id="encuestador" type="text" class="form-control @error('encuestador') is-invalid @enderror" name="encuestador" value="{{ old('encuestador') }}" autofocus>
+                                </div>
+                            </div>
+                            <!----- Fecha ----->
+                            <div class="form-group col-md-2">
+                                <div class="form-group col-md-12">
+                                    <label for="fecha_atencion">{{ __('Fecha de Atencion') }}</label>
+                                    <input id="fecha_atencion" type="date" class="form-control @error('fecha_atencion') is-invalid @enderror" name="fecha_atencion" value="{{ old('fecha_atencion') }}" autofocus>
+                                </div>
+                            </div>
+                            <!----- Hora Inicio ----->
+                            <div class="form-group col-md-2">
+                                <div class="form-group col-md-12">
+                                    <label for="hora_inicio">{{ __('Hora Inicio') }}</label>
+                                    <input id="hora_inicio" type="time" class="form-control @error('hora_inicio') is-invalid @enderror" name="hora_inicio" value="{{ old('hora_inicio') }}" autofocus>
+                                </div>
+                            </div>
+                            <!----- Hora Final ----->
+                            <div class="form-group col-md-2">
+                                <div class="form-group col-md-12">
+                                    <label for="hora_fin">{{ __('Hora Fin') }}</label>
+                                    <input id="hora_fin" type="time" class="form-control @error('hora_fin') is-invalid @enderror" name="hora_fin" value="{{ old('hora_fin') }}" autofocus>
+                                </div>
+                            </div>
+
                         </div>
                         <div class="form-row">
-                            <!----- Establelcimiento ----->
+                            <!----- Condicion ----->
                             <div class="form-group col-md-3">
                                 <label for="">{{ __('Condición del encuestado') }}</label>
                                 <select class="form-control" name="condicion" id="condicion" onchange="filterCity();">
@@ -82,6 +111,7 @@
                                 <option>SIS</option>
                                 <option>ESSALUD</option>
                                 <option>SOAT</option>
+                                <option>SALUDPOL</option>
                                 <option>Ninguno</option>
                                 <option>Otro</option>
                             </select>
@@ -119,7 +149,7 @@
                     <div class="card-body">
                         <!-- titulo 1 -->
                         <div class="alert alert-warning" role="alert">
-                            En primer lugar, califique las expectativas, que se refieren a la IMPORTANCIA que usted le otorga a la atención que espera recibir en el servicio de Consulta Externa (Nivel II y III). Utilice una escala numérica del 1 al 7. Considere 1 Como la menor calificación
+                            En primer lugar, califique las expectativas, que se refieren a <strong>LA IMPORTANCIA</strong> que usted le otorga a la atención que espera recibir en el servicio de Consulta Externa (Nivel II y III). Utilice una escala numérica del 1 al 7. Considere 1 Como la menor calificación
                             y 7 como la mayor calificación.
                         </div>
                         <div class="table-responsive">
@@ -1057,7 +1087,7 @@
                     </div>
                     <div class="card-body">
                         <div class="alert alert-warning" role="alert">
-                            En segundo lugar, califique las percepciones que se refieren a como usted HA RECIBIDO, la atención en el servicio de Consulta Externa (Nivel II y III). Utilice una escala numérica del 1 al 7. Considere 1 Como la menor calificación y 7 como la mayor calificación
+                            En segundo lugar, califique las percepciones que se refieren a como usted <strong>HA RECIBIDO</strong>, la atención en el servicio de Consulta Externa (Nivel II y III). Utilice una escala numérica del 1 al 7. Considere 1 Como la menor calificación y 7 como la mayor calificación
                         </div>
                         <div class="table-responsive">
                             <table class="table table-bordered mb-0">
@@ -1994,4 +2024,6 @@
     </div>
 
 </form>
+
 @endsection
+
