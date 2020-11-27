@@ -27,6 +27,7 @@ class CreateEmergenciaTable extends Migration
             $table->string('seguro')->nullable();
             $table->string('tipo_usuario')->nullable();
             $table->string('especialidad')->nullable();
+            $table->string('profesional')->nullable();
             $table->string('pregunta1', 5)->nullable();
             $table->string('pregunta2', 5)->nullable();
             $table->string('pregunta3', 5)->nullable();

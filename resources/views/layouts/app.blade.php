@@ -9,21 +9,31 @@
 
     <title>{{ config('app.name', 'Laravel') }}</title>
 
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="{{asset('select2/dist/css/select2.min.css')}}">
+
+    <!-- Styles -->
+    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/fontawesome-free/css/all.min.css') }}" rel="stylesheet">
+
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.css">
+
+    <!-- Script -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
-    <script src="{{ asset('js/Chart.min.js') }}" defer></script>
-    <script src="{{ asset('js/demo/chart-area-demo.js') }}" defer></script>
-    <script src="{{ asset('js/demo/chart-bar-demo.js') }}" defer></script>
-    <script src="{{ asset('js/demo/chart-pie-demo.js') }}" defer></script>
 
 
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
-    <!-- Styles -->
-    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
-    <link href="{{ asset('css/fontawesome-free/css/all.min.css') }}" rel="stylesheet">
+
+
+
+
 
     @yield('css')
 </head>
@@ -47,5 +57,6 @@
         </div>
     </main>
     @yield('js')
+
 </body>
 </html>

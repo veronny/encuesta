@@ -21,6 +21,7 @@ class ce extends Model
                         'seguro',
                         'tipo_usuario',
                         'especialidad',
+                        'profesional',
                         'pregunta1_1',
                         'pregunta1_2',
                         'pregunta1_3',

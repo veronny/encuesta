@@ -5,7 +5,7 @@
 
     <div class="d-sm-flex align-items-center justify-content-between mb-4">
         <h1 class="h3 mb-0 text-gray-800">ENCUESTAS SEGÚN SERVICIO DE ATENIÓN NIVEL Y CATEGORIA</h1>
-        <a href="#" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"><i class="fas fa-home fa-sm text-white-50"></i> Ir Menu Principal</a>
+        <a href="http://encuesta.saludjunin.site/" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"><i class="fas fa-home fa-sm text-white-50"></i> Ir Menu Principal</a>
     </div>
 
     <!-- Content Row -->
@@ -17,9 +17,11 @@
         <!-- Project Card Example -->
         <div class="card shadow mb-4">
             <div class="card-header py-3">
-            <h6 class="m-0 font-weight-bold text-primary">Mensaje</h6>
+            <h6 class="m-0 font-weight-bold text-primary">Mensaje de Confirmacion</h6>
             </div>
             <div class="card-body">
+                Se ha registrado su respuesta
+                <br>Gracias por su participacion<br>
             <h4 class="small font-weight-bold">
                 Encuesta enviada
                 <span class="float-right">

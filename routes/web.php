@@ -53,6 +53,9 @@ Route::get('/consulta', 'ceController@index')->name('consulta');
 
 Route::post('/consulta_guarda', 'ceController@store')->name('guarda_consulta');
 
+Route::get('/consulta', 'EstablecimientoController@index');
+Route::post('/establecimiento/getEstablecimiento/', 'EstablecimientoController@getEstablecimiento')->name('establecimiento.getEstablecimiento');
+
 Route::get('/emergencia', 'EmergenciaController@index')->name('emergencia');
 
 Route::post('/emergencia_guarda', 'EmergenciaController@store')->name('guarda_emergencia');
@@ -60,3 +63,4 @@ Route::post('/emergencia_guarda', 'EmergenciaController@store')->name('guarda_em
 Route::get('/hospi', 'HospiController@index')->name('hospi');
 
 Route::post('/hospi_guarda', 'HospiController@store')->name('guarda_hospi');
+
