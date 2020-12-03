@@ -6,7 +6,7 @@
 
         <div class="d-sm-flex align-items-center justify-content-between mb-4">
             <h4 class="text-md-center">
-                <strong>ENCUESTA PARA EVALUAR LA SATISFACCIÓN DE LOS USUARIOS ATENDIDOS EN EL SERVICIO DE HOSPITALIZACIÓN EN ESTABLECIMIENTOS DEL NIVEL I-4,  II y III</strong>
+                <strong>Evaluación de la Satisfacción del usuario externo en establecimientos de salud del I-3 al III nivel</strong>
             </h4>
         </div>
 
