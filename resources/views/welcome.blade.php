@@ -6,7 +6,7 @@
             <img src="{{ url('img/logo.png') }}" style="width:150px;height:50px">
         </p>
         <div class="row justify-content-center align-items-center minh-500">
-            <p style="font-size:24px;" class="text-center"><strong>&nbsp;&nbsp;&nbsp;Evaluación de la Satisfacción del usuario externo en establecimientos de salud del I-3 al III nivel</strong></p>
+            <p style="font-size:24px;" class="text-center"><strong>&nbsp;&nbsp;&nbsp;Evaluación de la Satisfacción del usuario externo en establecimientos de salud del II al III nivel</strong></p>
         </div>
     </nav>
 

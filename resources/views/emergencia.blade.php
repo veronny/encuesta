@@ -6,7 +6,7 @@
 
         <div class="d-sm-flex align-items-center justify-content-between mb-4">
             <h4 class="text-md-center">
-                <strong>Evaluación de la Satisfacción del usuario externo en establecimientos de salud del I-3 al III nivel</strong>
+                <strong>Evaluación de la Satisfacción del usuario externo en establecimientos de salud del II y III nivel</strong>
             </h4>
         </div>
 
@@ -311,7 +311,7 @@
                     <div class="card-body">
                         <!-- titulo 1 -->
                         <div class="alert alert-warning" role="alert">
-                            En primer lugar, califique las expectativas, que se refieren a la IMPORTANCIA que usted le otorga a la atención que espera recibir en el servicio de Emergencia (Nivel II y III). Utilice una escala numérica del 1 al 7.Considere 1 como la menor calificación y 7 como la mayor calificación.
+                            En primer lugar, califique las expectativas, que se refieren a la IMPORTANCIA que usted le otorga a la atención que espera recibir en el servicio de Consulta Externa (Nivel II y III). Utilice una escala numérica del 1 al 7.Considere 1 como la menor calificación y 7 como la mayor calificación.
                         </div>
                         <div class="table-responsive">
                             <table class="table table-bordered mb-0">
@@ -1291,7 +1291,7 @@
                     </div>
                     <div class="card-body">
                         <div class="alert alert-warning" role="alert">
-                            En segundo lugar, califique las percepciones que se refieren a como usted HA RECIBIDO, la atención en el servicio de Emergencia (Nivel II y III). Utilice una escala numérica del 1 al 7. Considere 1 como la menor calificación y 7 como la mayor calificación.
+                            En segundo lugar, califique las percepciones que se refieren a como usted A RECIBIDO, la atención en el servicio de Consulta Externa (Nivel II y III). Utilice una escala numérica del 1 al 7. Considere 1 como la menor calificación y 7 como la mayor calificación.
                         </div>
                         <div class="table-responsive">
                             <table class="table table-bordered mb-0">
