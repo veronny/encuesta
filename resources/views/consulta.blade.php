@@ -6,7 +6,7 @@
 
         <div class="d-sm-flex align-items-center justify-content-between mb-4">
             <h4 class="text-md-center">
-                <strong>Evaluación de la Satisfacción del usuario externo en establecimientos de salud del I-3 al III nivel</strong>
+                <strong>Evaluación de la Satisfacción del usuario externo en establecimientos de salud del II y III nivel</strong>
             </h4>
         </div>
 
