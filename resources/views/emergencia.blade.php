@@ -36,107 +36,31 @@
                                     <select class="form-control" name="establecimiento" id="establecimiento">
                                         <option>-- Seleccione --</option>
                                         <optgroup label="RED CHANCHAMAYO">
-                                          <option value="00000308">00000308 - HOSPITAL REGIONAL DOCENTE DE MEDICINA TROPICAL DR. JULIO CESAR DEMARINI CARO</option>
-                                          <option value="00000320">00000320 - PUERTO YURINAKI</option>
-                                          <option value="00000354">00000330 - SAN FERNANDO DE KIVINAKI</option>
-                                          <option value="00000320">00000314 - SAN LUIS DE SHUARO</option>
-                                          <option value="00000308">00000354 - SAN RAMON</option>
-                                          <option value="00000320">00000315 - SANCHIRIO PALOMAR</option>
-                                          <option value="00000320">00000318 - VILLA PERENE</option>
-                                        </optgroup>
-                                        <optgroup label="RED JAUJA">
-                                          <option value="00000379">00000379 - ACOLLA</option>
-                                          <option value="00000409">00000409 - APATA</option>
-                                          <option value="00000365">00000365 - HOSPITAL DOMINGO OLAVEGOYA</option>
-                                          <option value="00000559">00000559 - LA OROYA</option>
-                                          <option value="00000427">00000427 - LLOCLLAPAMPA</option>
-                                          <option value="00000394">00000394 - MASMA</option>
-                                          <option value="00000563">00000563 - MOROCOCHA</option>
-                                          <option value="00000566">00000566 - SANTA ROSA DE SACCO</option>
-                                          <option value="00000404">00000404 - SINCOS</option>
-                                          <option value="00000377">00000377 - YAUYOS</option>
-                                        </optgroup>
-                                        <optgroup label="RED JUNIN">
-                                           <option value="00000537">00000537 -	CARHUAMAYO</option>
-                                           <option value="00000519">00000519 -	DE APOYO JUNIN</option>
-                                           <option value="00000551">00000551 -	ONDORES</option>
-                                           <option value="00000601">00000601 -	ULCUMAYO</option>
-                                        </optgroup>
-                                        <optgroup label="NO PERTENECE A NINGUNA RED">
-                                            <option value="00000753">00000753 -	HOSPITAL REGIONAL DOCENTE CLINICO QUIRURGICO DANIEL ALCIDES CARRION DE HUANCAYO</option>
-                                            <option value="00027857">00027857 -	INSTITUTO REGIONAL DE ENFERMEDADES NEOPLÁSICAS DEL CENTRO - IREN CENTRO</option>
-                                            <option value="00006615">00006615 -	REGIONAL DOCENTE MATERNO INFANTIL EL CARMEN</option>
-                                        </optgroup>
-                                        <optgroup label="RED PICHANAKI">
-                                            <option value="00000343">00000343 -	CENTRO CUYANI</option>
-                                            <option value="00027080">00027080 -	CENTRO DE SALUD MENTAL COMUNITARIO PICHANAKI</option>
-                                            <option value="00006716">00006716 -	CIUDAD SATELITE</option>
-                                            <option value="00000340">00000340 -	HOSPITAL DE APOYO PICHANAKI</option>
-                                            <option value="00000351">00000351 -	HUACHIRIKI</option>
-                                            <option value="00000344">00000344 -	LAS PALMAS</option>
-                                        </optgroup>
-                                        <optgroup label="RED DE SALUD CHUPACA">
-                                            <option value="00000700">00000700 -	CHONGOS ALTO</option>
-                                            <option value="00000649">00000649 -	CHONGOS BAJO</option>
-                                            <option value="00000651">00000651 -	HUACHAC</option>
-                                            <option value="00000646">00000646 -	PEDRO SANCHEZ MEZA - CHUPACA</option>
-                                            <option value="00000641">00000641 -	SAN JOSE DE QUERO</option>
-                                            <option value="00000659">00000659 -	SAN JUAN DE JARPA</option>
-                                        </optgroup>
-                                        <optgroup label="RED SAN MARTIN DE PANGOA">
-                                            <option value="00000445">00000445 -	SAN ANTONIO DE SONOMORO</option>
-                                            <option value="00000442">00000442 -	SAN MARTIN DE PANGOA</option>
-                                            <option value="00000443">00000443 -	SAN RAMON DE PANGOA</option>
-                                        </optgroup>
-                                        <optgroup label="RED SATIPO">
-                                            <option value="00000460">00000460 -	BETANIA</option>
-                                            <option value="00027078">00027078 -	CENTRO DE SALUD MENTAL COMUNITARIO SATIPO</option>
-                                            <option value="00000485">00000485 -	COVIRIALI</option>
-                                            <option value="00000432">00000432 -	DE APOYO MANUEL HIGA ARAKAKI</option>
-                                            <option value="00000490">00000490 -	LLAYLLA</option>
-                                            <option value="00000434">00000434 -	MAZAMARI</option>
-                                            <option value="00000462">00000462 -	POYENI</option>
-                                            <option value="00000469">00000469 -	PUERTO OCOPA</option>
-                                            <option value="00000495">00000495 -	RIO NEGRO</option>
-                                            <option value="00000473">00000473 -	SAN VICENTE DE CANAAN</option>
-                                            <option value="00000438">00000438 -	TZIRIARI</option>
-                                            <option value="00000506">00000506 -	UNION CAPIRI</option>
-                                            <option value="00000517">00000517 -	VALLE ESMERALDA</option>
-                                        </optgroup>
-                                        <optgroup label="RED TARMA">
-                                            <option value="00000521">00000521 -	ACOBAMBA</option>
-                                            <option value="00000527">00000527 -	C.S. PALCAMAYO</option>
-                                            <option value="00027079">00027079 -	CENTRO DE SALUD MENTAL COMUNITARIO TARMA</option>
-                                            <option value="00000520">00000520 -	DE APOYO FELIX MAYORCA SOTO</option>
-                                            <option value="00000542">00000542 -	HUASAHUASI</option>
-                                            <option value="00000569">00000569 -	PALCA</option>
-                                            <option value="00000534">00000534 -	SAN PEDRO DE CAJAS</option>
-                                        </optgroup>
-                                        <optgroup label="RED VALLE DEL MANTARO">
-                                            <option value="00000610">00000610 -	AUQUIMARCA</option>
-                                            <option value="00027736">00027736 -	CENTRO DE SALUD MENTAL COMUNITARIO VALLE DEL MANTARO</option>
-                                            <option value="00000608">00000608 -	CHILCA</option>
-                                            <option value="00000678">00000678 -	COMAS</option>
-                                            <option value="00000671">00000671 -	DAVID GUERRERO DUARTE</option>
-                                            <option value="00000620">00000620 -	HUANCAN</option>
-                                            <option value="00000622">00000622 -	HUAYUCACHI</option>
-                                            <option value="00000714">00000714 -	JUAN PARRA DEL RIEGO</option>
-                                            <option value="00000705">00000705 -	JUSTICIA PAZ Y VIDA</option>
-                                            <option value="00000727">00000727 -	LA LIBERTAD</option>
-                                            <option value="00000687">00000687 -	MATAHUASI</option>
-                                            <option value="00000728">00000728 -	OCOPILLA</option>
-                                            <option value="00000751">00000751 -	ORCOTUNA</option>
-                                            <option value="00000736">00000736 -	PARIAHUANCA</option>
-                                            <option value="00000719">00000719 -	PILCOMAYO</option>
-                                            <option value="00000624">00000624 -	PUCARA</option>
-                                            <option value="00000722">00000722 -	SAN AGUSTIN DE CAJAS</option>
-                                            <option value="00000724">00000724 -	SAN JERONIMO</option>
-                                            <option value="00000707">00000707 -	SAN MARTIN</option>
-                                            <option value="00000691">00000691 -	SANTA ROSA DE OCOPA</option>
-                                            <option value="00000666">00000666 -	SANTO DOMINGO DE ACOBAMBA</option>
-                                            <option value="00000629">00000629 -	SAPALLANGA</option>
-                                            <option value="00000726">00000726 -	SICAYA</option>
-                                        </optgroup>
+                                            <option value="00000308">00000308 - HOSPITAL REGIONAL DOCENTE DE MEDICINA TROPICAL DR. JULIO CESAR DEMARINI CARO</option>
+                                          </optgroup>
+                                          <optgroup label="RED JAUJA">
+                                            <option value="00000365">00000365 - HOSPITAL DOMINGO OLAVEGOYA</option>
+                                          </optgroup>
+                                          <optgroup label="RED JUNIN">
+                                             <option value="00000519">00000519 - HOSPITAL	DE APOYO JUNIN</option>
+                                          </optgroup>
+                                          <optgroup label="NO PERTENECE A NINGUNA RED">
+                                              <option value="00000753">00000753 -	HOSPITAL REGIONAL DOCENTE CLINICO QUIRURGICO DANIEL ALCIDES CARRION DE HUANCAYO</option>
+                                              <option value="00027857">00027857 -	INSTITUTO REGIONAL DE ENFERMEDADES NEOPLÁSICAS DEL CENTRO - IREN CENTRO</option>
+                                              <option value="00006615">00006615 -	REGIONAL DOCENTE MATERNO INFANTIL EL CARMEN</option>
+                                          </optgroup>
+                                          <optgroup label="RED PICHANAKI">
+                                              <option value="00000340">00000340 -	HOSPITAL DE APOYO PICHANAKI</option>
+                                          </optgroup>
+                                          <optgroup label="RED SAN MARTIN DE PANGOA">
+                                              <option value="00000442">00000442 -	HOSPITAL DE APOYO PANGOA</option>
+                                          </optgroup>
+                                          <optgroup label="RED SATIPO">
+                                              <option value="00000432">00000432 -	HOSPITAL DE APOYO MANUEL HIGA ARAKAKI</option>
+                                          </optgroup>
+                                          <optgroup label="RED TARMA">
+                                              <option value="00000520">00000520 -	HOSPITAL DE APOYO FELIX MAYORCA SOTO</option>
+                                          </optgroup>
                                     </select>
                                 </div>
                             </div>
@@ -144,14 +68,14 @@
                             <!----- NOMBRE ----->
                             <div class="form-group col-md-3">
                                 <div class="form-group col-md-12">
-                                    <label for="encuestador">{{ __('Nombre del encuestador') }}</label>
+                                    <label for="encuestador">{{ __('Usuario que realiza la encuesta (opcional)') }}</label>
                                     <input id="encuestador" type="text" class="form-control @error('encuestador') is-invalid @enderror" name="encuestador" value="{{ old('encuestador') }}" autofocus>
                                 </div>
                             </div>
                             <!----- Fecha ----->
                             <div class="form-group col-md-2">
                                 <div class="form-group col-md-12">
-                                    <label for="fecha_atencion">{{ __('Fecha de Atencion') }}</label>
+                                    <label for="fecha_atencion">{{ __('Fecha') }}</label>
                                     <input id="fecha_atencion" type="date" class="form-control @error('fecha_atencion') is-invalid @enderror" name="fecha_atencion" value="{{ old('fecha_atencion') }}" autofocus>
                                 </div>
                             </div>
@@ -231,7 +155,7 @@
                             </div>
                             <!----- estudios ----->
                             <div class="form-group col-md-3">
-                                <label for="especialidad">{{ __('Especialidad') }}</label>
+                                <label for="especialidad">{{ __('Tópico o área donde fue atendido') }}</label>
                                 <input id="especialidad" type="text" class="form-control @error('especialidad') is-invalid @enderror" name="especialidad" value="{{ old('especialidad') }}" autofocus>
                             </div>
                             <!----- profesional ----->
