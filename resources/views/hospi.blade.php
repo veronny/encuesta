@@ -153,7 +153,7 @@
                             </div>
                             <!----- estudios ----->
                             <div class="form-group col-md-3">
-                                <label for="especialidad">{{ __('Hospitalizacion en dias') }}</label>
+                                <label for="especialidad">{{ __('Tiempo de hospitalizacion en dias') }}</label>
                                 <input id="especialidad" type="text" class="form-control @error('especialidad') is-invalid @enderror" name="especialidad" value="{{ old('especialidad') }}" autofocus>
                             </div>
                             <!----- profesional ----->
