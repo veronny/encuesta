@@ -1232,7 +1232,7 @@
                     </div>
                     <div class="card-body">
                         <div class="alert alert-warning" role="alert">
-                            En segundo lugar, califique las percepciones que se refieren a como usted A RECIBIDO, la atención en el servicio de Hospitalización (II y III). Utilice una escala numérica del 1 al 7.Considere 1 como la menor calificación y 7 como la mayor calificación.
+                            En segundo lugar, califique las percepciones que se refieren a como usted HA RECIBIDO, la atención en el servicio de Hospitalización (II y III). Utilice una escala numérica del 1 al 7.Considere 1 como la menor calificación y 7 como la mayor calificación.
                         </div>
                         <div class="table-responsive">
                             <table class="table table-bordered mb-0">
@@ -1376,7 +1376,7 @@
                                     <!-- PREGUNTA NRO 3-->
                                     <tr class="border-bottom">
                                         <td width="80px">
-                                            <div class="small text-muted d-none d-md-block">3. ¿Usted comprendió la explicación de los médicos sobre los medicamentos que recibió durante su hospitalización: beneficios y efectos adversos?
+                                            <div class="small text-muted d-none d-md-block">3. ¿Usted comprendió la explicación de los médicos sobre los medicamentos que recibió durante su hospitalización: Beneficios y efectos adversos?
                                             </div>
                                         </td>
                                         <td>

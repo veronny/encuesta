@@ -1215,7 +1215,7 @@
                     </div>
                     <div class="card-body">
                         <div class="alert alert-warning" role="alert">
-                            En segundo lugar, califique las percepciones que se refieren a como usted A RECIBIDO, la atención en el servicio de Consulta Externa (Nivel II y III). Utilice una escala numérica del 1 al 7. Considere 1 como la menor calificación y 7 como la mayor calificación.
+                            En segundo lugar, califique las percepciones que se refieren a como usted HA RECIBIDO, la atención en el servicio de Consulta Externa (Nivel II y III). Utilice una escala numérica del 1 al 7. Considere 1 como la menor calificación y 7 como la mayor calificación.
                         </div>
                         <div class="table-responsive">
                             <table class="table table-bordered mb-0">
