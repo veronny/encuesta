@@ -6,7 +6,7 @@
             <img src="{{ url('img/logo.png') }}" style="width:150px;height:50px">
         </p>
         <div class="row justify-content-center align-items-center minh-500">
-            <p style="font-size:24px;" class="text-center"><strong>&nbsp;&nbsp;&nbsp;Encuesta de la Satisfacción del usuario externo en establecimientos de salud del II y III nivel</strong></p>
+            <p style="font-size:24px;" class="text-center"><strong>&nbsp;&nbsp;&nbsp;Encuesta de la satisfacción del usuario externo en establecimientos de salud del II y III nivel</strong></p>
         </div>
     </nav>
 
@@ -20,7 +20,7 @@
                             <div class="col-lg-12">
                                 <div class="p-5">
                                     <div class="text-center">
-                                        <h1 class="h4 text-gray-900 mb-4">{{__('Bienvenido!')}}</h1>
+                                        <h1 class="h4 text-gray-900 mb-4">{{__('Bienvenido')}}</h1>
                                     </div>
                                     <hr>
                                 </div>
@@ -83,7 +83,7 @@
                             <div class="col-lg-12">
                                 <div class="p-5">
                                     <div class="text-center">
-                                            <h5 class="h5 text-gray-900 mb-4">{{__('Descaga data para SERVQUAL:')}}</h5>
+                                            <h5 class="h5 text-gray-900 mb-4">{{__('Descarga data para SERVQUAL:')}}</h5>
                                             <a href="https://diresajunin.bitrix24.es/~sohcE">
                                             <img src="{{ url('img/excel.png') }}">
                                         </a>
